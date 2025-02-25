@@ -1,0 +1,17 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./public/src/input.css -o ./public/src/build.css --watch",
+    "build": "npx @tailwindcss/cli -i ./public/src/input.css -o ./public/src/build.css"
+  },
+  "author": "MrWeez",
+  "description": "Page with all self-hosted services",
+  
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
+  },
+
+  "devDependencies": {}
+}
