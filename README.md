@@ -2,6 +2,8 @@
 
 This project generates a webpage displaying a collection of service links as interactive cards. Each card contains an image, title, description, and service name, all dynamically loaded from a configuration file.
 
+![Demo image](https://cdn.mrweez.dev/public/Screenshot%20from%202025-02-26%2005-48-44.png)
+
 ## Features
 
 - Dynamically generated cards with images, titles, and descriptions
