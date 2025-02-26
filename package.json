@@ -2,8 +2,8 @@
   "name": "services",
   "version": "1.0.0",
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./public/assets/build.css --watch",
-    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./public/assets/build.css"
+    "dev": "npx @tailwindcss/cli -i ./public/src/input.css -o ./public/src/build.css --watch",
+    "build": "npx @tailwindcss/cli -i ./public/src/input.css -o ./public/src/build.css"
   },
   "author": "MrWeez",
   "description": "Page with all self-hosted services",

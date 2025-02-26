@@ -230,9 +230,6 @@
   .grid {
     display: grid;
   }
-  .inline {
-    display: inline;
-  }
   .h-16 {
     height: calc(var(--spacing) * 16);
   }
