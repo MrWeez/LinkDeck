@@ -1,12 +1,12 @@
 {
-  "name": "services-page",
+  "name": "linkdeck",
   "version": "2.0.0",
   "scripts": {
     "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./public/assets/build.css --watch",
     "build": "npx @tailwindcss/cli -i ./src/input.css -o ./public/assets/build.css --minify"
   },
   "author": "MrWeez",
-  "description": "Page with all self-hosted services",
+  "description": "Card-Based Service Directory",
   
   "dependencies": {
     "@tailwindcss/cli": "^4.0.9",

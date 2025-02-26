@@ -21,7 +21,7 @@ $siteConfig = include '../config/config.php';
 
 <body class="bg-zinc-900 text-zinc-100 min-h-screen p-4">
     <div class="container mx-auto">
-        <h1 class="text-4xl font-bold mb-6 mt-2 text-zinc-50">Services</h1>
+        <h1 class="text-4xl font-bold mb-6 mt-2 text-zinc-50">LinkDeck</h1>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 <?php foreach ($cards as $card): ?>
