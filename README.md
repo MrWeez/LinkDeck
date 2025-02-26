@@ -89,7 +89,7 @@ This project generates a webpage displaying a collection of service links as int
    ```sh
    nginx -t && systemctl restart nginx
    ```
-8. Acces your LinkDeak at `http://YOUR.DOMAIN.HERE`
+8. Acces your LinkDeck at `http://YOUR.DOMAIN.HERE`
 
 ## License
 
