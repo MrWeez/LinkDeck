@@ -1,6 +1,6 @@
 <?php
 return [
-    'site_title' => 'My Services', // Used for <title> tag
+    'site_title' => 'LinkDeck', // Used for <title> tag
     'head_tags' => [
         '<meta name="description" content="My services page description">',
         '<link rel="stylesheet" href="styles.css">',
